@@ -1,5 +1,9 @@
 # OXPROPS
 
+See [[MS-OXPROPS]: Exchange Server Protocols Master Property List](https://msdn.microsoft.com/en-us/library/cc433490(v=exchg.80).aspx)
+
+PROPIDs:
+
 - [0001-PidLidAttendeeCriticalChange.md](JSON/0001-PidLidAttendeeCriticalChange.md)
 - [0002-PidLidWhere.md](JSON/0002-PidLidWhere.md)
 - [0003-PidLidGlobalObjectId.md](JSON/0003-PidLidGlobalObjectId.md)
