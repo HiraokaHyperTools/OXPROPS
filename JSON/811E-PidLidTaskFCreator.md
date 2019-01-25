@@ -1,0 +1,12 @@
+# PidLidTaskFCreator
+
+| Key | Value |
+|---|---|
+| Canonical name | PidLidTaskFCreator |
+| Description | Indicates that the Task object was originally created by the action of the current user or user agent instead of by the processing of a task request. |
+| Property set | PSETID_Task {00062003-0000-0000-C000-000000000046} |
+| Property long ID (LID) | 0x0000811E |
+| Data type | PtypBoolean, 0x000B |
+| Area | Tasks |
+| Defining reference | [MS-OXOTASK] section 2.2.2.2.21 |
+| Alternate names | dispidTaskFCreator |
